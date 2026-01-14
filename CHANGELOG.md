@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.4.0](https://github.com/ashishgurprit/deepgram-python-sdk/compare/v5.3.0...v5.4.0) (2026-01-14)
+
+
+### Features
+
+* Add GitHub Actions workflow to sync fork with upstream ([d83ab57](https://github.com/ashishgurprit/deepgram-python-sdk/commit/d83ab57af42d31d8c62791d0050666638d0bb4ae))
+
 ## [5.3.0](https://github.com/deepgram/deepgram-python-sdk/compare/v5.2.0...v5.3.0) (2025-10-30)
 
 
